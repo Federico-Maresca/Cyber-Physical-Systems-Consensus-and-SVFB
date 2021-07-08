@@ -1,5 +1,3 @@
-%% Mar 4, 2021 -- Consensus "Hello world" -- S. M. Fosson%%
-
 clear all
 close all
 clc
